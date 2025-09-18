@@ -4,18 +4,65 @@
 </p>
 
 ## 🚀 DATA ENTHUSIAST
+## 🛠️ Skills & Technologies
+
 <p align="center">
-  <a href="#" title="Programming Languages & Tools">
-    <img src="https://skillicons.dev/icons?i=python,r,pandas,excel,sql" />
+  <a href="#" title="Programming Languages">
+    <img src="https://skillicons.dev/icons?i=python,r" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#" title="Databases & Tools">
+  <a href="#" title="Data Science & ML Libraries">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" title="Data Analysis & Visualization Tools">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" title="Databases & Development Tools">
     <img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" />
   </a>
 </p>
 
+---
+
+### Alternative Compact Version:
+
+<p align="center">
+  <a href="#" title="Programming & Tools">
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,git,vscode,jupyter" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+### Icon-Style Version (Custom SVG approach):
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,vscode,jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" />
+</p>
 
 ## 🌟 About Me
 

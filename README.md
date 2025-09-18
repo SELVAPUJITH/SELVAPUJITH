@@ -39,6 +39,3 @@
   </a>
 </p>
 Crafted with ❤ by SELVAPUJITH T
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/Vikash888/count.svg" alt="Profile Views" style="border-radius: 5px; margin-top: 20px;"/>
-</p>

@@ -3,17 +3,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&lines=DATA SCIENTIST+%7C+Tech+Enthusiast;DATA ANALYST+%26+Growing+Every+Day;ML ENGINEER" alt="Typing SVG" />
 </p>
 
-## 🚀 Tech Arsenal
+## 🚀 DATA ENTHUSIAST
 
 <p align="center">
   <a href="#" title="Programming Languages">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,R,MACHINE LEARNING,PANDAS,EXCEL,POWER BI,SQL" />
   </a>
 </p>
 
 <p align="center">
   <a href="#" title="Databases & Tools">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,git,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=JUPITER NOTEBOOK,mysql,git,vscode" />
   </a>
 </p>
 

@@ -1,3 +1,5 @@
+https://www.canva.com/design/DAGzWmTe6po/29WaYuPeVmzPXSoEYAFbng/view?utm_content=DAGzWmTe6po&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9a22192245
+
 # Hey there! 👋 I'm SELVAPUJITH T
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=F75C7E,F09819,EDDE5D,09FBD3,6C5CE7&center=true&vCenter=true&width=600&lines=DATA+SCIENTIST+%7C+Tech+Enthusiast;DATA+ANALYST+%26+Growing+Every+Day;ML+ENGINEER" alt="Typing SVG" />

@@ -6,16 +6,17 @@
 ## 🚀 DATA ENTHUSIAST
 
 <p align="center">
-  <a href="#" title="Programming Languages">
-    <img src="https://skillicons.dev/icons?i=python,R,MACHINE LEARNING,PANDAS,EXCEL,POWER BI,SQL" />
+  <a href="#" title="Programming Languages & Tools">
+    <img src="https://skillicons.dev/icons?i=python,r,pandas,excel,sql" />
   </a>
 </p>
 
 <p align="center">
   <a href="#" title="Databases & Tools">
-    <img src="https://skillicons.dev/icons?i=JUPITER NOTEBOOK,mysql,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" />
   </a>
 </p>
+
 
 ## 🌟 About Me
 

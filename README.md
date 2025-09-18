@@ -7,15 +7,24 @@
 
 <p align="center">
   <a href="#" title="Programming Languages & Tools">
-    <img src="https://skillicons.dev/icons?i=python,r,pandas,excel,sql" />
+    <!-- From skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=python,r,sql" height="48" />
+    
+    <!-- Custom Icons -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Numpy_logo_2020.svg" title="NumPy" alt="NumPy" width="48" height="48"/>
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-Learn" alt="Scikit-Learn" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="48" height="48"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="Power BI" alt="Power BI" width="48" height="48"/>
   </a>
 </p>
 
 <p align="center">
   <a href="#" title="Databases & Tools">
-    <img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,vscode,jupyter" height="48" />
   </a>
 </p>
+
 
 
 ## 🌟 About Me

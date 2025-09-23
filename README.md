@@ -19,10 +19,12 @@
 
 ## 🌟 About Me
 
-- 💻 Passionate about building innovative software solutions
-- 🌱 Constantly exploring new technologies and frameworks
-- 🤝 Open to collaboration and learning opportunities
-- 🎯 Committed to writing clean, efficient, and maintainable code
+- 📊 Passionate about data science—turning raw data into real-world insights using Python, SQL, and Pandas.
+- 🧠 I build machine learning models and neural networks from scratch, connecting theory to practical applications.
+- 🔍 Skilled in data wrangling, visualization, and predictive modeling for business, ethics, and social media analytics.
+- 🚀 Always experimenting with algorithms to improve accuracy, performance, and decision-making.
+- 🤝 I believe in collaborative learning—building bilingual resources and guiding peers through hands-on projects.
+
 
 ## 🤝 Let's Connect!
 
